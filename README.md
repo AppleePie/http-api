@@ -1,7 +1,7 @@
 ### Подготовка к запуску:
 Заполнение конфиг-файла(config.py):
 * 'app_id' - id вашего приложения. Узнать, как его получить, можно, например, [здесь](https://www.pandoge.com/socialnye-seti-i-messendzhery/poluchenie-klyucha-dostupa-access_token-dlya-api-vkontakte).
-* 'access_token' - токен доступа вашего приложения. Сделать это можно с файла помощью access_token.py. Инструкция:
+* 'access_token' - токен доступа вашего приложения. Сделать это можно с помощью файла access_token.py. Инструкция:
    1) Запуск скрипта:
       ```
       python access_token.py
